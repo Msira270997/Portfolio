@@ -26,11 +26,23 @@ h1 {
 }
 
 h2 {
-    color: var(--main-color);
     padding: 20px;
     text-align: center;
     color: #2FE1CC;
     font-family: 'Alumni Sans Inline One';
+    font-size: 50px;
+}
+
+#proyectos {
+    color: black;
+}
+
+h3 {
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Alumni Sans Inline One';
+    font-size: 35px;
 }
 
 .am {
